@@ -1,0 +1,18 @@
+{
+    "development": {
+        "username": "root",
+        "password": "Guobiting*2023*",
+        "database": "DTW",
+        "host": "localhost",
+        "timezone": "+08:00",
+        "dialect": "mysql"
+    },
+    "development-config": {
+        "username": "guobiting",
+        "password": "guob*2020*",
+        "database": "jicafu_start",
+        "host": "rm-bp1toaj1wp5y5ko.mysql.rds.aliyuncs.com",
+        "timezone": "+08:00",
+        "dialect": "mysql"
+    }
+}
